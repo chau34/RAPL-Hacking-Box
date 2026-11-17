@@ -1,4 +1,4 @@
-# RAPL-Hacking-Box
+# RAPL Hacking Box
 Simulate RAPL energy readings, analysis, and sudo password checker.
 
 ### Things to work on
